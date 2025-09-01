@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bitacora</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="sort_options">
+        <item>Dispositivo</item>
+        <item>Modelo</item>
+        <item>Fabricante</item>
+        <item>Ubicacion</item>
+        <item>IP</item>
+        <item>Gateway</item>
+        <item>Voltaje</item>
+        <item>Alimentacion</item>
+    </string-array>
+</resources>
